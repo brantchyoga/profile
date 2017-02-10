@@ -1,12 +1,12 @@
 .topi {
   width:;
-  height: ;
+  height:px;
 }
 body {
-  background-color: #3a6a87;
 }
 .lk {
   color:#162c51;
+  margin: 50px;
 }
 h1 {
   font-family: fantasy;
@@ -15,5 +15,20 @@ h1 {
 #b {
   font-family: serif;
   text-align: center;
-  text-shadow: 1px 1px #7289af;
+  text-shadow: 2px 4px black;
+  color: white;
+  text-decoration: underline;
+  margin:20px;
+}
+#sharp {
+  float:right;
+  margin-left: 5px;
+  border: 1px solid blue;
+  border-radius: 15px;
+}
+.p {
+  font-size: 18px;
+}
+#foot{
+  text-align: center;
 }
