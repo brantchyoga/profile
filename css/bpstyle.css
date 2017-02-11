@@ -1,6 +1,6 @@
 .topi {
   width:;
-  height:px;
+  height:;
 }
 body {
 }
@@ -15,8 +15,8 @@ h1 {
 #b {
   font-family: serif;
   text-align: center;
-  text-shadow: 2px 4px black;
-  color: white;
+  text-shadow: 1px 1px black;
+  color: #e03431;
   text-decoration: underline;
   margin:20px;
 }
@@ -31,4 +31,19 @@ h1 {
 }
 #foot{
   text-align: center;
+}
+#o {
+   opacity: 0.75;
+}
+#tk {
+  opacity: 75%;
+  width: 40%;
+  float:left;
+  margin-right: 20px;
+}
+.k {
+  color: white;
+}
+h2 {
+  text-decoration: underline;
 }
